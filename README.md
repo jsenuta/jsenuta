@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is John Senuta. I'm a soon-to-be new grad (May 2022) looking for full-time software engineering opportunities starting June 2022.
+My name is John Senuta. I'm a recent graduate (May 2022) looking for full-time software engineering opportunities.
 
 🎓 **Education**
 - B.S. Computer Engineering | <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, May 2022
